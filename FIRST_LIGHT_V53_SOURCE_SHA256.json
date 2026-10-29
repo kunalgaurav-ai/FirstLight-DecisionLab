@@ -1,0 +1,16 @@
+{
+  "immutable_inherited_source": true,
+  "sha256_by_path": {
+    "FIRST_LIGHT_V53_README.md": "c337dc00297de5dcdcfe46d8095158f61aa9587226d57f03783146a20c08af90",
+    "evidence/mac_v52_verified/UPLOAD_THIS_FIRST_LIGHT_V5_firstlight_v52_20261026T005159Z_49947.zip": "dc0a0ba5ee2648039203d9cad744880c61242d55e5be0c55aa34f1f435f4f577",
+    "firstlight_v53/__init__.py": "5be861f5b93ea227a82070f7ca6e03fb816f1749ae9ee93052924d1e1250bdce",
+    "firstlight_v53/matrix.py": "a7a845b6996250e2d1f93dd41e15436ad5871453e7ca381bf466f60bc265d507",
+    "firstlight_v53/pack.py": "be505b658e793e479a47894711903993b71b0ee6c65dd70cf371a854ee56e065",
+    "firstlight_v53/research.py": "48a6eb6c5ed0c02c57806972dd18d3a18063aafda1e143219061cb7c48d51425",
+    "firstlight_v53/setup_models.py": "aafd4926a5426817b48a0e370f0492bfad9229404f631359f8458e58f3f8ad4c",
+    "firstlight_v53/verify.py": "2c67a520314459970ed1f419a2938ca4f7cf6b9e14c6c6ac9e91b03ab1f4963c",
+    "run_firstlight_v53.sh": "45cc455f12b40fa6a94c02ec6ae855eeb9d656f2de11b3752dec466b44acb59b",
+    "tests/test_v53_model_matrix.py": "504a2cbb8e0caaea9e117541269240ab209e83bc225f43c8df917c2e78c5d7f1"
+  },
+  "version": "5.3.0"
+}

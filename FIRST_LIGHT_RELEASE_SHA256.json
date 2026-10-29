@@ -1,0 +1,93 @@
+{
+  "brand": "First Light",
+  "release": "5.0.0",
+  "inherited_release": "Agent Intelligence Lab v4.6",
+  "notice": "Historical source unchanged; pilot code not a public leaderboard score",
+  "files": [
+    {
+      "path": "BENCHMARK_README_FIRST_LIGHT.md",
+      "bytes": 5860,
+      "sha256": "d86a406c379bea8d98459edd203cb672008cad208707c1c57840e9aabc48639f"
+    },
+    {
+      "path": "FIRST_LIGHT_CONTINUITY_HANDOFF.md",
+      "bytes": 2190,
+      "sha256": "d3691f36a2e584fa3c277ef4505f383cfd56589fa9eaff63fb6610c1e60aa462"
+    },
+    {
+      "path": "evidence/previous_mac_runs/PREVIOUS_EXECUTIONS_PROVENANCE.json",
+      "bytes": 2921,
+      "sha256": "9a10150bd1cee0d9689cded090576c13a828e2a54bed5862a2d6538da0f1d20f"
+    },
+    {
+      "path": "evidence/previous_mac_runs/UPLOAD_THIS_v45_20261025T202100Z_a488e66c.zip",
+      "bytes": 8778,
+      "sha256": "b282e997f8fecb88d2f4f486aaee9912d7954ecd7a2c70a4f6c5ea1c91ea7138"
+    },
+    {
+      "path": "evidence/previous_mac_runs/UPLOAD_THIS_v46_20261025T224138Z_4bb122e9.zip",
+      "bytes": 17127,
+      "sha256": "c31428eb5d54574e2721725c916316aab722ad0afc2382fdaf9fac0e49f93acd"
+    },
+    {
+      "path": "firstlight_v5/__init__.py",
+      "bytes": 110,
+      "sha256": "c8637530b27c9607c078426c03927a27c707967f9c9cbfed262dc65dcdd36af4"
+    },
+    {
+      "path": "firstlight_v5/app.js",
+      "bytes": 4513,
+      "sha256": "43145752049ffadd9e54f112ad2bfabe73363fd3726eaf3f9551138718e7b15b"
+    },
+    {
+      "path": "firstlight_v5/core.py",
+      "bytes": 13463,
+      "sha256": "a3efec0261999e6b24d92d2ef82250b58b1606bd6e5e8ad1e7fc13606bf1cf14"
+    },
+    {
+      "path": "firstlight_v5/dashboard.py",
+      "bytes": 4358,
+      "sha256": "e803679daecb1b58f3f37e427980d7d872aaf4556e1a99efb8eb3ffe2124ecae"
+    },
+    {
+      "path": "firstlight_v5/index.html",
+      "bytes": 6252,
+      "sha256": "c41bc0ab0b03a0177eb45921e1bc097419f8697ebbef480be3339fcd0daa401b"
+    },
+    {
+      "path": "firstlight_v5/package.py",
+      "bytes": 1535,
+      "sha256": "7827795c9033f27df5131d7284c6ceba4384930820d7a5e945b1660fadb69e0d"
+    },
+    {
+      "path": "firstlight_v5/runner.py",
+      "bytes": 11163,
+      "sha256": "559d6478f08018dde588ae1e0bf43ad07f15e32d6f2d47283e8ddf781abc6a6d"
+    },
+    {
+      "path": "firstlight_v5/site.py",
+      "bytes": 134,
+      "sha256": "e2f660cbe463588c81e6a44a33674e67583e9bdf97af7eb6e28b39ab73cac57f"
+    },
+    {
+      "path": "firstlight_v5/style.css",
+      "bytes": 4322,
+      "sha256": "1f0ac5f9d783ea6f01e3647134b07c642dec408fc86e9174201813ada3ae6888"
+    },
+    {
+      "path": "run_firstlight.sh",
+      "bytes": 2103,
+      "sha256": "2acbc8c8e2dbc13d2ffcf8815c1ce69e26ee70081c2ca029c6e5fc9549e725fe"
+    },
+    {
+      "path": "scripts/verify_firstlight_release.py",
+      "bytes": 779,
+      "sha256": "f23a506ca54c240f4bf78f81a484cdd2b61e6972dad11a07a09b5d0b566fa56a"
+    },
+    {
+      "path": "tests/test_firstlight_v5.py",
+      "bytes": 7654,
+      "sha256": "9b9f96b0b3878ae0539fd06ab3562291a02bbe11d26e968b09668ad44ae43ade"
+    }
+  ]
+}

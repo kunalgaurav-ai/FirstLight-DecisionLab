@@ -1,0 +1,15 @@
+AIL V4.3 — PROMPT-FIRST TRUE TEXT-TO-VIDEO EXPERIMENT
+
+Use a new Terminal or PyCharm Terminal. Download the ZIP into ~/Downloads.
+
+cd "$HOME/Downloads" || exit 1
+TARGET="$HOME/Downloads/AIL-v43-executions/source-$(date -u +%Y%m%dT%H%M%SZ)-$$"
+mkdir -p "$TARGET"
+unzip -q "$HOME/Downloads/agent-intelligence-lab-v4.3-prompt-first-generative.zip" -d "$TARGET"
+cd "$TARGET/agent-intelligence-lab-v4.3-prompt-first-generative" || exit 1
+bash ./run_v43.sh
+
+This automatically attempts one public ZeroGPU generated-video clip, runs software tests and opens a local dashboard. If provider quota/network blocks it, diagnostics are still saved.
+After Ctrl+C, locate the latest UPLOAD_THIS_v43_*.zip under the new runs/v43_* directory and upload it for analysis.
+
+Do not claim any v4.3 real model result before you inspect the actual Mac report. Prompts sent to external HF Space are PUBLIC constructed research prompts only. No billing credentials are used by default.

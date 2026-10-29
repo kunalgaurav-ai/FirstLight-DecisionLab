@@ -1,0 +1,22 @@
+{
+  "inherited_release": "v5.4.1",
+  "new_additive_files": 15,
+  "release": "first_light_v55",
+  "sha256_by_path": {
+    "FIRST_LIGHT_V55_CONTINUITY.md": "a02b8315a1f1fe8b50adc81fe5afc7b71464d3e631db51712701b93c817b1681",
+    "FIRST_LIGHT_V55_README.md": "f2217ab4ca1bbfcbb5099a5d28e9603e3772674b9bf69b5d97fcff2e1146e72d",
+    "evidence/mac_v541_verified/FIRST_LIGHT_V541_ACTUAL_MAC_BENCHMARK_AUDIT_2026-10-26.md": "951c5dc477d37993337efff2444c7178acd7eaf330788b2172adca9b1cbfc285",
+    "evidence/mac_v541_verified/UPLOAD_THIS_FIRSTLIGHT_V54_firstlight_v54_20261026T021900Z_51703.zip": "2dab269c2685567446544b580cfadc9871457781e0250a3d5120a634a96eae37",
+    "firstlight_v55/__init__.py": "dab7abd16f1a21de685a07e55f44849426dcecf011e131f4fb0c83e9a5fd453b",
+    "firstlight_v55/experiment.py": "22e613d83fc1beb6d191ac61328be471a222669f8cd1de207e5f24a3f65d27c1",
+    "firstlight_v55/ollama.py": "57e967f798066560f3e8bb82272fea84ffc5805f5148a9c21bcceade39fdd212",
+    "firstlight_v55/pack.py": "0da01a05c870aad48b44d092087fa9ed8d392218220e00c0b0e37edf48d89aff",
+    "firstlight_v55/sandbox.py": "e31724f93971791640192bde71e5eed3eef3a79d0e8afad0bf8577763fcf1486",
+    "firstlight_v55/source.py": "91687ce74ab0afbf17a58b9351ba1e5b424b5de31cea869166fb72082dff5724",
+    "firstlight_v55/verify.py": "bbc486edfc7fac5f155d81d40d905114609d0d882fed361e919a345bf5394be1",
+    "firstlight_v55/web.py": "6960e0a7e0c8526ffaeb0c3cf0b2743a0b865183aa491a5ab7df2f2c5e1dc8d7",
+    "firstlight_v55/worker.py": "78b8fe32f66581f7c067375e217643cdf45f6e23d904dc3ccf1eedc5451b6e1a",
+    "run_firstlight_v55.sh": "fe9b8af4517f861264b2899c67a2a92cffe0b425c731b75f80c9a0d743e83fba",
+    "tests/test_firstlight_v55.py": "d59a8a7a6c6f3282b013560ffd680a4eb786ca17c5035098700cfa605446387b"
+  }
+}

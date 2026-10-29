@@ -1,0 +1,19 @@
+{
+  "inherits_preserved_v53": true,
+  "sha256_by_path": {
+    "FIRST_LIGHT_V54_CONTINUITY.md": "9665d6cb9d41c12dfda54e19501b8584d634ef1297a2255434d9ed3117d455cd",
+    "FIRST_LIGHT_V54_README.md": "2d92c86d4876fbf26da13e978034f6f70f4aa08a588215941275a3d01f200e38",
+    "firstlight_v54/__init__.py": "b8f4259d1a9ec6db9253046624bc02167ac0946c2ae5763cce0f289e7a76d7cd",
+    "firstlight_v54/early.py": "90447a8cf7ed974be1a653a64bb84d51192b9389ef7467b4c82610fd1bb8f35c",
+    "firstlight_v54/experiment.py": "17f9bacfd4ea72b01ade09d7605e72fd09c753c6774adbbc92f232496ef68fb3",
+    "firstlight_v54/models.py": "521370435aed24d7bdba774b5e545b7d9153796a5d8b0b43d67a912943aa426d",
+    "firstlight_v54/ollama.py": "cd0b2272003d2129cdabdda4a91389642d2f20300fc6d160d056c884f477ecd9",
+    "firstlight_v54/pack.py": "b75586ad55545953086a6666d8e6e380c53fa0b8f245e95aca2568acc46d9c66",
+    "firstlight_v54/research.py": "7925285e62d58d1ca8dc57a74b347f79f040bdd8d9b7159c6ebe6ebced76323f",
+    "firstlight_v54/test_runner.py": "19a936eaacb964376097e071961123d0a577dd0dbd35f1cbc5770b43801ac998",
+    "firstlight_v54/verify.py": "d6fea86abf32cb3de21e808774d3a5687b64697312b5811893ee5dea8ba42b22",
+    "run_firstlight_v54.sh": "54d03eba4cfd5b56b0c1ece441d3c8d395d6e48f0a9431865632434b607083dd",
+    "tests/test_firstlight_v54.py": "94d1ad57f44549e370e2fc4980cdcaba15c0cf84f61d084a65c9d551a51c2134"
+  },
+  "version": "5.4.0"
+}

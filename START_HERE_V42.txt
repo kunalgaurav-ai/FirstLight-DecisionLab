@@ -1,0 +1,1 @@
+AIL V4.2 — Source ZIP (no photos bundled). Start in README_V42.md; run bash ./run_v42.sh. Online images permitted only through verified Wikimedia hosts. Review is needed.

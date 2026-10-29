@@ -1,0 +1,39 @@
+# Python environments
+.venv/
+venv/
+env/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# macOS and editors
+.DS_Store
+.idea/
+.vscode/
+
+# Credentials and local environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Temporary output
+*.log
+*.tmp
+
+# Hold these directories for separate review
+runs/
+data/
+evidence/
+
+# Internal documents pending public-release review
+docs/
+*CONTINUITY*
+*HANDOFF*

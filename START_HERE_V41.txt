@@ -1,0 +1,8 @@
+AGENT INTELLIGENCE LAB v4.1 — macOS FFmpeg compatibility release
+
+DO NOT use the v4.0 launcher contained here; it is retained for historical reference.
+
+Read README_V41.md. Execute:
+  bash ./run_v41.sh
+
+This release fixes Homebrew FFmpeg 9 drawtext absence by rendering caption PNGs in Python and using the core overlay filter. The user v4.0 result was blocked before image downloads or model calls. Tests passing do not prove customer output approval.

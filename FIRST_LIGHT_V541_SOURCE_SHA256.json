@@ -1,0 +1,13 @@
+{
+  "inherits_preserved_v54": true,
+  "sha256_by_path": {
+    "FIRST_LIGHT_V541_CONTINUITY.md": "a47858a288391f4fc4cf1d2fe12eba75ff26bf7c07e0f538cb4b5f7490d26c98",
+    "FIRST_LIGHT_V541_README.md": "dc44ca95232e803cc75de55f43fd7d186e8c6c78037a5c113da90da169be752f",
+    "firstlight_v541/__init__.py": "743a885ece87e87e57b1c225d774b6ab83576adcdfbdec70d20bd610177077d8",
+    "firstlight_v541/temp.py": "0b7533cf19689b8c6f63c40abecb40bd5eca77cbfe9659bb3786023c5e9ac2de",
+    "firstlight_v541/verify.py": "a63b2203ed3bc91085fc30101dc20c8cf7dcdf6796c41d35f69ba9d958cc80ee",
+    "run_firstlight_v541.sh": "e0a82b03fde9893a46d0cee5e070c6474fdb2d4c714e6c89f531f4056c96a3ce",
+    "tests/test_firstlight_v541.py": "ba862ac4d1f21ec1ac2c8519b225ed680d8bcee8ec24349edd51ca8faee1241c"
+  },
+  "version": "5.4.1"
+}

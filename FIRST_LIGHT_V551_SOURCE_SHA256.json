@@ -1,0 +1,14 @@
+{
+  "additive_file_count": 6,
+  "inherited_release": "v5.5.0",
+  "notes": "Do not modify previous release manifests, source, empirical results or grader.",
+  "release": "first_light_v551",
+  "sha256_by_path": {
+    "FIRST_LIGHT_V551_CONTINUITY.md": "05c337d4d40bb97437db12f077e8850147fe8d14e6044c3dba0d9db1c4f973c1",
+    "FIRST_LIGHT_V551_README.md": "b3393cdcb5f888c2b50c585dce09fc08a70c5b5d2bc60857ddba15dd9cb3a203",
+    "firstlight_v551/__init__.py": "01f017d4994dbf39eb207259be75447bd33b6e74b934be444409e9d997c02420",
+    "firstlight_v551/verify.py": "f3a60288a5dadd98b42ceb38a635b1b31f24d41d34acf7e1f20636d7e0591e87",
+    "run_firstlight_v551.sh": "9c1754f1565df4f3b2ded98a7b209826d40538a28c3bd870d76a9e6a62266377",
+    "tests/test_firstlight_v551.py": "c9ddf6f8cb124b8bbc8a02c32f6b264bae47e8575673d4fd94c379b66cbbc3f1"
+  }
+}

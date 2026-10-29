@@ -1,0 +1,14 @@
+{
+  "sha256_by_path": {
+    "FIRST_LIGHT_V51_CONTINUITY_ADDENDUM.md": "4c4f5d717849567e76b49d5688a033b1e1af6ea84f98ee9596279cfdabed7245",
+    "RELEASE_NOTES_V51.md": "51605ec2237ca6f2de99414517696dd4bd67c0d6c6190e79a821578f50577f79",
+    "firstlight_v51/__init__.py": "0ec9a21094c8a7363b3de420da5fe343ff5e6c0d9ce18493633a55dbecd1d061",
+    "firstlight_v51/assert_release.py": "b4d410f070a3491c68961abadbeb955ac2fc2747e1a69a57c648f4756aca9faf",
+    "firstlight_v51/preflight.py": "1c65b5a986b9090b9ec45e313b28f99f6f50086de6bf9d51565a437bf7b27218",
+    "firstlight_v51/run.py": "7f747ebf2563cf62c692d99eca8bcdc710a4d39b4114928a9335cbac0ce185e0",
+    "firstlight_v51/test_driver.py": "f0f8cf421c20ee75fd4a0e68e28520d792a7453bb4169d15df9d7c4d986a7ba1",
+    "run_firstlight_v51.sh": "4aea5875c42668fd1f8ce3795eb5448bf6755327d9697596e51b87e9f8f6a96f",
+    "tests/test_firstlight_v51.py": "a611cbf374359473f319ced4498526db21500faae4ac0d5f91130812caa0f845"
+  },
+  "version": "5.1.0"
+}

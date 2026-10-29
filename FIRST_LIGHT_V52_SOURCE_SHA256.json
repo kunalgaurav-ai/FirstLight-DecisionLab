@@ -1,0 +1,14 @@
+{
+  "mac_temp_path_fix": "normalizes symlinked macOS temp directory before inherited tests",
+  "parent_release": "5.1.0",
+  "sha256_by_path": {
+    "FIRST_LIGHT_V52_README.md": "f8352a3b1ce2064b932ebf96650ab8b2e1dba90ac9f87143cd3be009f18975a7",
+    "firstlight_v52/__init__.py": "8071eaed46b61a6af7ea66bb0106c1b1b7c1d12990b58450465e0ea32f5e15ca",
+    "firstlight_v52/run.py": "c0b6a21730877406442a8c42f690b0f9452e9e4524c9bfd7a50012eb00dac7e3",
+    "firstlight_v52/test_driver.py": "6a7c2a8292492e2800d9ce050c4c62a07a90657c1c7930f1a5ccfcfe06837f07",
+    "firstlight_v52/verify.py": "5530f3ca3ad4a4acf84493619f69ce59cac7fab23e4b735754c424cd34deb632",
+    "run_firstlight_v52.sh": "7a5bf58ee6089a7e5378ec5bec106ac920223af0afaa131213e31a875356f93f",
+    "tests/test_firstlight_v52.py": "f40d227bd2a1bc09cc68ff26f93d7537854b74d2bb412ed9bde50a148f6d18b3"
+  },
+  "version": "5.2.0"
+}

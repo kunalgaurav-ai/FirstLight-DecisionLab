@@ -1,0 +1,3 @@
+AGENT INTELLIGENCE LAB v4.4 MULTIMODAL WORKFLOW
+Read README_V44.md for commands, tests, external video requirements, truthful evidence labels and user-upload ZIP.
+Preserved v4.3.1 README.md remains unchanged for integrity.
